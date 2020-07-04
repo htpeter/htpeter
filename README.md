@@ -1,11 +1,6 @@
 ### Hi there, I am Peter aka @htpeter 👋
 
-Here are some ideas to get you started:
+Earth in 2020 is so complex. If you want to understand things, you've got to pay attention to societies, economies, taxonomies, the macro, the micro, the psycho. Is Facebook taking over our brains?! Does Google know what I'm thinking right now? Will Tencent take over the world? Measuring where truths lay on spectrums of greyis complicated. I store the code snippets I want to save on my GitHub 💻.
 
-- 🔭 I’m currently working on a new engaging way to write technical analyses.
-- 🌱 I’m currently learning Bayesian methods and Rust.
-- 👯 I’m looking to collaborate on nothin' right now.
-- 🤔 I’m looking for help with learning about Agriculture and Financial Commidty industries.
-- 💬 Ask me about data analysis methods.
-- 📫 If you want to reach me, you can DM me @ https://twitter.com/kouvaris3
-- 🧣 Fun Fact: I love fall & winter the most.
+
+
