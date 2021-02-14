@@ -3,7 +3,7 @@
 I not have have anything to share currently. Please feel free to read some of my projects although many are for my own use and do not have the necessary public READMEs. 
 
 If you use postgres for data science, I would love to share with you my below Postgres class that manages a lot of the messiness of managing connections but lets you perform the necessary functions. 
-```
+```{python}
 """
 A high level database object that manages connection details.
 
