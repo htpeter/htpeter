@@ -3,12 +3,9 @@
 I not have have anything to share currently. Please feel free to read some of my projects although many are for my own use and do not have the necessary public READMEs. 
 
 If you use postgres for data science, I would love to share with you my below Postgres class that manages a lot of the messiness of managing connections but lets you perform the necessary functions. 
-```{python}
-"""
-A high level database object that manages connection details.
 
-Example:
-
+#### Here is some code using the object you may find compelling.
+```python
 credentials = {
   "host" : "a.b.com",
   "port" : 5432,
@@ -33,7 +30,11 @@ a_database.commit_query(sql: str)
 
 # writes a dataframe to a table in the database
 a_database.write_dataframe_to_table(dataframe: pd.DataFrame, table: str, columns: list/tuple)
-"""
+```
+
+#### Here is the implementation 
+
+```python
 from io import StringIO
 
 import pandas as pd
