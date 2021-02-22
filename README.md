@@ -1,6 +1,6 @@
 ### Hi there, I am Peter aka @htpeter 👋
 
-I not have have anything to share currently. Please feel free to read some of my projects although many are for my own use and do not have the necessary public READMEs. 
+I've decided to share some of my code here so you can get a sense of my style and what I like to work on.
 
 If you use postgres for data science, I would love to share with you my below Postgres class that manages a lot of the messiness of managing connections but lets you perform the necessary functions. 
 
