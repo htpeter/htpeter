@@ -62,6 +62,9 @@ my_database.write_dataframe_to_table(
 ```
 
 **How it is built**
+
+The goal of this class is to create a simple plug and play interface to a Postgres database that offers the user all the functions a data scientist would want. Namely (1) get some data (2) update some data and (3) move some data. I aim to make these 3 things very easy while abstracting all of the `psycopg2` connection nuances like handling rollbacks after failed commits, returning the SQL level errors instead of python errors, and reconnecting from a slew of different states.
+
 ```python
 from io import StringIO
 
