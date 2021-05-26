@@ -19,7 +19,7 @@ The below code examples and underlying python Class is how I've been connecting 
 
 Writing dataframes uses psycopg2's most efficent implementation which is >10X faster than iterating over each row and writing inserts. If your team is doing this, try implementing the below.
 
-**How it is used **
+**How it is used**
 
 In this example, we will connect to a database and calculate an aggregated view, writing the results to a table. 
 ```python
