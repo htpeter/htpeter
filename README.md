@@ -9,7 +9,7 @@ I've recently been working on using NLP to solve business problems (thanks to `e
 
 #### My Coding & Code Examples
 
-I mainly code in Python and SQL. I'm also a huge Unix fan (the kind who runs `i3`, `tmux` and knows their way around `vim`). I've also had a fair bit of experience writing `go`. In my freetime, I will occasionally putz around with `haskell`, `rust` and `elixir` however I am far from experienced in these languages.
+I mainly code in Python and SQL. I'm also a huge Unix fan (the kind who runs `i3`, `tmux` and knows their way around `vim`). I've also had a fair bit of experience writing `go`. In my freetime, I will occasionally putz around with functional languages although I have yet to enter my post-modern functional only decade where I really cut my teeth. I imagine the bug will infect me sooner rather than later.
 
 **Here are some code examples that will give you a taste as to how I code**
 
