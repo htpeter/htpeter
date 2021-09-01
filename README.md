@@ -1,6 +1,6 @@
 ## A Bit About `htpeter`
 
-Hello, my name is Peter and I am a Data Scientist who currently lives and works in New York City. I really like economics and economic data. For money, I build adtech models and natural language models for some technology companies. 
+Hello, my name is Peter and I am a Data Scientist who currently lives and works in New York City. For money, I build adtech models and natural language models for some technology companies. 
 
 ### Curated List of Readable Things
 
