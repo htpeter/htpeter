@@ -1,6 +1,4 @@
-## A Bit About `htpeter`
-
-Hello, my name is Peter and I am a Data Scientist who currently lives and works in New York City. For money, I build adtech models and natural language models for some technology companies. 
+Data Scientist/Engineer building systems that learn from data. Specializing in Applied NLP, Advertising Optimization and Advanced Analytics (everything is a graph). In my free time, I am an amateur quant trading a hodgepodge of assets with silicon and maths.
 
 ### Curated List of Readable Things
 
