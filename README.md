@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @htpeter, a Data Scientist currently working at fintech company.
-- 👀 I’m interested in quant finance and applied NLP.
-- 🌱 I’m currently learning how to work with ledgers and how to be a more effective data engineer.
-- 💞️ I’m looking to write some code and make a little money.
-- 📫 How to reach me: @pmk_pmk_ or @graphsmage
+- 👋 Hi, I’m @htpeter. I love computers.
