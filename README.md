@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @htpeter. I love computers.
+- 👋 Yo, I’m @htpeter
